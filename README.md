@@ -3,17 +3,16 @@
 
 ### 안녕하세요👋
 
-Python으로 코딩을 시작해,
-  
-Backend, ML/DL, DataScience에 관심을 갖고 공부하고 있습니다.
+Python으로 코딩을 시작해, 백엔드 개발자로 일하고 있습니다.
 
----
+
   
 ## 🍀Long-term Goal
 풀스택 개발자를 목표로 합니다!
 
+MLops, ML/DL, DataScience에 관심을 갖고 공부하고 있습니다.
+ 
 생산성있는 행동을 좋아하고 다방면로 성장하려합니다!🚵
-
 
 
 
