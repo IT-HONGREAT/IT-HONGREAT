@@ -4,16 +4,18 @@
 
 <br/>
 
-### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> 
+<!-- ### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> --> 이동중
 
 
  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-150458?style=flat-square&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
  
 <br/>
 
-👨🏻‍💻똑똑한 개발자 | _백엔드 개발자 BE Developer (2022.02 ~ now)_
+⚡️ 체인라이트닝 컴퍼니 | _백엔드 개발자 BE Developer (2023.06 ~ now)_
 
-👨🏻‍🎓광주 인공지능사관학교 | _2기 수료 (2021.06 ~ 2021.12)_
+👨🏻‍💻 똑똑한 개발자 | _백엔드 개발자 BE Developer (2022.02 ~ 2023.05)_
+
+👨🏻‍🎓 광주 인공지능사관학교 | _2기 수료 (2021.06 ~ 2021.12)_
 
 
 
