@@ -4,7 +4,7 @@
 
 <br/>
 
-<!-- ### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> --> 이동중
+<!-- ### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> --> 
 
 
  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-150458?style=flat-square&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
