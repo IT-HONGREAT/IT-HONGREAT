@@ -15,6 +15,10 @@
  
 <br/>
 
+<a href="https://hongreat.co.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Click%20Here-brightgreen" alt="Blog Badge">
+</a>
+
 * 버핏서울 2024.12 ~ Now
 * 똑똑한 개발자 2022.2 ~ 2024.11
 * 광주인공지능 사관학교 2021.6 ~ 2021.12
