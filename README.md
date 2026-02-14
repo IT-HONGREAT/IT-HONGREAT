@@ -49,9 +49,4 @@
 | 2022.02 ~ 2024.11 | **똑똑한개발자** | 백엔드 개발자 |
 | 2021.06 ~ 2021.12 | **광주인공지능사관학교** | AI 교육과정 수료 |
 
----
 
-
-### 📊 GitHub Stats
-
-![Hongreat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-HONGREAT&show_icons
