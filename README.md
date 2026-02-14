@@ -1,54 +1,58 @@
+<h1 align="center">Hong In Yeong (홍인영)</h1>
+
+<p align="center">
+  <strong>Backend Developer</strong><br/>
+  Python/Django 기반 4년차 백엔드 개발자
+</p>
+
+<p align="center">
+  <a href="https://hongreat.co.kr"><img src="https://img.shields.io/badge/Blog-hongreat.co.kr-2ea44f?style=flat-square" alt="Blog"/></a>
+  <a href="/cdn-cgi/l/email-protection#fc9493929b8e999d88c5c9bc9b919d9590d29f9391"><img src="https://img.shields.io/badge/Email-hongreat95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIT-HONGREAT&count_bg=%230EEFC1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+**Main**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-150458?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Infra & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
-# 홍인영 / Hong In Yeong
+**Learning**
 
-<br/>
-
-<!-- ### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> --> 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 
- <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-150458?style=flat-square&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+<img src="https://github.com/IT-HONGREAT/IT-HONGREAT/assets/80932397/4dcaaa2d-f3cf-4c7b-8e43-6525e345edaa" width="100" alt="AWS Certified Developer Associate"/>
 
-![aws-certified-developer-associate](https://github.com/IT-HONGREAT/IT-HONGREAT/assets/80932397/4dcaaa2d-f3cf-4c7b-8e43-6525e345edaa)
+---
 
+### 💼 Experience
 
- 
-<br/>
+| 기간 | 회사 | 역할 |
+|------|------|------|
+| 2024.12 ~ | **버핏서울** | 백엔드 개발자 |
+| 2022.02 ~ 2024.11 | **똑똑한개발자** | 백엔드 개발자 |
+| 2021.06 ~ 2021.12 | **광주인공지능사관학교** | AI 교육과정 수료 |
 
-<a href="https://hongreat.co.kr" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Click%20Here-brightgreen" alt="Blog Badge">
-</a>
-
-* 버핏서울 2024.12 ~ Now
-* 똑똑한 개발자 2022.2 ~ 2024.11
-* 광주인공지능 사관학교 2021.6 ~ 2021.12
+---
 
 
-  
-<br/>
+### 📊 GitHub Stats
 
-
-### 🍀Long-term Goal
-풀스택 개발자 / MLops를 목표로 합니다!
-<br/>
-생산성있는 행동을 좋아하고 *한가지 언어와 프레임워크에 종속되지 않고 성장* 하려합니다!🚵
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIT-HONGREAT&count_bg=%230EEFC1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
- 
-![Hongreat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-HONGREAT&show_icons=true&theme=github_dark)
-  
-
-<!-- 넘파이 판다스 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=black"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/raspberry pi4-A22846?style=flat-square&logo=raspberry pi&logoColor=white"/>
- 
-
-For Information ...
-<br/>
-👉 <img src="https://img.shields.io/badge/hongreat95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://deeply-saturnalia-5c9.notion.site/IN-Yeong-Hong-4d6451b048ff4805a170b8e0eb23236d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-
-
--->
- 
-
-
- 
+![Hongreat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-HONGREAT&show_icons
