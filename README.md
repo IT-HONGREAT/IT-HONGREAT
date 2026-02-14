@@ -1,134 +1,54 @@
-# 홍인영 | Hong In Yeong
 
-<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+# 홍인영 / Hong In Yeong
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<br/>
 
-[![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
+<!-- ### 💡<a href="https://it-hongreat.github.io/portfolio">About Me</a> --> 
 
-[🌐 Blog](https://hongreat.co.kr/) • [📧 Email](mailto:hongreat95@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/inyeong-hong/) • [🐙 GitHub](https://github.com/IT-HONGREAT)
 
-</div>
+ <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-150458?style=flat-square&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
 
----
+![aws-certified-developer-associate](https://github.com/IT-HONGREAT/IT-HONGREAT/assets/80932397/4dcaaa2d-f3cf-4c7b-8e43-6525e345edaa)
 
-## 💼 About Me
 
-**Backend Software Developer** with 2+ years of professional experience specializing in Python, Django, and cloud architecture. Passionate about building scalable systems, contributing to open-source projects, and continuous learning.
+ 
+<br/>
 
-Currently focused on:
-- **Backend Architecture**: Designing robust APIs and microservices
-- **System Design**: Building scalable, maintainable solutions
-- **DevOps & Cloud**: AWS infrastructure, Docker, containerization
-- **Team Leadership**: Mentoring junior developers and technical documentation
+<a href="https://hongreat.co.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-Click%20Here-brightgreen" alt="Blog Badge">
+</a>
 
----
+* 버핏서울 2024.12 ~ Now
+* 똑똑한 개발자 2022.2 ~ 2024.11
+* 광주인공지능 사관학교 2021.6 ~ 2021.12
 
-## 🌟 Professional Experience
 
-| Period | Position | Company | Focus |
-|--------|----------|---------|-------|
-| 2024.12 ~ Now | Backend Developer | 브피서울 (Buffet Seoul) | Full-stack service, Backend architecture |
-| 2022.02 ~ 2024.11 | Backend Engineer | 딘른 개발자 (Smart Developer) | Django API, System design |
-| 2021.06 ~ 2021.12 | AI Developer | 광주인공지늨 사관학교 | Machine Learning research |
+  
+<br/>
 
----
 
-## 🚀 Tech Stack
+### 🍀Long-term Goal
+풀스택 개발자 / MLops를 목표로 합니다!
+<br/>
+생산성있는 행동을 좋아하고 *한가지 언어와 프레임워크에 종속되지 않고 성장* 하려합니다!🚵
 
-### Backend
-- **Languages**: Python, Go (Learning), Rust (Exploring)
-- **Frameworks**: Django REST Framework, FastAPI, Celery
-- **Databases**: PostgreSQL, MySQL, Redis
-- **Caching & Message Queue**: Redis, RabbitMQ
 
-### Frontend
-- **Web**: React, Next.js, TypeScript
-- **Mobile**: React Native
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIT-HONGREAT&count_bg=%230EEFC1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ 
+![Hongreat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-HONGREAT&show_icons=true&theme=github_dark)
+  
 
-### DevOps & Cloud
-- **Cloud Platform**: AWS (EC2, RDS, S3, Lambda, CloudFront)
-- **Containerization**: Docker, Docker Compose
-- **Version Control**: Git, GitHub
-- **Other**: Nginx, Linux, Shell scripting
+<!-- 넘파이 판다스 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/portainer-13BEF9?style=flat-square&logo=portainer&logoColor=black"/>  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/raspberry pi4-A22846?style=flat-square&logo=raspberry pi&logoColor=white"/>
+ 
 
----
+For Information ...
+<br/>
+👉 <img src="https://img.shields.io/badge/hongreat95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://deeply-saturnalia-5c9.notion.site/IN-Yeong-Hong-4d6451b048ff4805a170b8e0eb23236d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-## 🎏 Current Projects
 
-### OnCell - Church Community Application
-**Full-stack church management and community platform**
-- **Backend**: Django REST Framework with PostgreSQL
-- **Frontend**: React Native (Mobile) + Next.js (Admin Web)
-- **Infrastructure**: Docker, AWS, Redis
-- [GitHub Repository](https://github.com/IT-HONGREAT/OnCell)
+-->
+ 
 
----
 
-## 🌟 Long-term Goals
-
-### Career Objectives
-- 🎆 **Build at Scale**: Create systems serving millions of users
-- 🚀 **Open Source Contribution**: Actively contribute to impactful projects
-- 👀 **Senior Engineering**: Lead technical teams and mentor engineers
-- 🌐 **Target Companies**: Kakao, Naver, LINE, Coupang, Samsung, SK, and international tech companies
-
-### Technical Goals
-- Master **Go** programming and microservices architecture
-- Deep dive into **Kubernetes** and container orchestration
-- Learn **System Design** at enterprise scale
-- Explore **Blockchain** and distributed systems
-
-### Vision
->탐나 키를 개발하는 개발자가 되자. Production-grade systems that empower people.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT-HONGREAT&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-HONGREAT&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🎆 Fun Facts
-
-- 🎸 **Electric Guitar Enthusiast**: Playing and performing music
-- 🏋️ **Fitness Tracker**: Regular gym sessions, tracking progress with Inbody
-- 🃱 **Stock Market Enthusiast**: Analyzing market trends and trading
-- 🚄 **Crypto Explorer**: Following blockchain and Web3 innovations
-
----
-
-## 👁 Get in Touch
-
-- **Email**: [hongreat95@gmail.com](mailto:hongreat95@gmail.com)
-- **Blog**: [hongreat.co.kr](https://hongreat.co.kr/)
-- **GitHub**: [@IT-HONGREAT](https://github.com/IT-HONGREAT)
-- **Location**: Goyang-si, Gyeonggi-do, South Korea 🇰🇷
-
----
-
-<div align="center">
-
-**Thanks for visiting! Feel free to reach out or check out my repositories.**
-
-![Visitor Badge](https://img.shields.io/badge/Visitors-Welcome!-brightgreen?style=flat-square)
-
-</div>
+ 
