@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://hongreat.co.kr"><img src="https://img.shields.io/badge/Blog-hongreat.co.kr-2ea44f?style=flat-square" alt="Blog"/></a>
   <a href="/cdn-cgi/l/email-protection#fc9493929b8e999d88c5c9bc9b919d9590d29f9391"><img src="https://img.shields.io/badge/Email-hongreat95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIT-HONGREAT&count_bg=%230EEFC1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+  
 
 ---
 
