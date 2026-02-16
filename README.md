@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Backend Developer</strong><br/>
-  Python/Django 기반 4년차 백엔드 개발자
+  Python/Django 기반 5년차 백엔드 개발자
 </p>
 
 <p align="center">
